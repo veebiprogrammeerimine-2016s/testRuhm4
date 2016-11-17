@@ -1,7 +1,7 @@
 <?php
 
 	// hello
-  echo hello;
+  echo "hello";
 
 
 	// welcome
