@@ -1,7 +1,7 @@
 <?php
 
-	// hello
-  echo hello;
+	// Tere Romil
+  echo "Tere Romil!";
 
 
 	// welcome
